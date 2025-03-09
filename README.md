@@ -15,7 +15,7 @@
 	We aim for simple minimal design that is easy to read and play.
 	The welcome page GUI is looking very good.
 # Overview of the Agario functionality
-	Let the player eat foods, other players, also spit when reach the requirement mass. 
+	Let the player eat foods, other players, also split when reach the requirement mass. 
 # Consulted Peers:
 	We talked with Trenton,Ted and Shadrach.
 # Comments to Agario:
